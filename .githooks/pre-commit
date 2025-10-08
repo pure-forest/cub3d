@@ -1,0 +1,41 @@
+#! /bin/bash
+
+exit_code=0
+
+# Run norm
+echo -e "\033[93;01m--- Pre-commit Norminette --\033[0m"
+norminette -d inc/ src/ libft/
+norminette_exit_status=$?
+
+# Run make
+echo -e "\033[93;01m--- Pre-commit Make ---\033[0m"
+make re
+make_exit_status=$?
+
+# Show results
+echo -e "\033[33;01mNorminette: \033[0m"
+
+if [ $norminette_exit_status -eq 0 ]
+then
+	echo -e "\033[92mSUCCESS\033[0m\n"
+else
+	echo -e "\033[91mFAILURE\033[0m\n"
+	exit_code=1
+fi
+
+echo -e "\033[33;01mMake: \033[0m"
+
+if [ $make_exit_status -eq 0 ]
+then
+	echo -e "\033[92mSUCCESS\033[0m\n"
+else
+	echo -e "\033[91mFAILURE\033[0m\n"
+	exit_code=1
+fi
+
+if [ $exit_code -eq 1 ]
+then
+	echo -e "\033[91m>> Pre-commit hook detected an error, commit interrupted! >>\033[0m"
+fi
+echo -e "\033[93;01m(If you want to bypass the pre-commit hook, you can run 'git commit --no-verify')\033[0m"
+exit $exit_code

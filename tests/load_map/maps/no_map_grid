@@ -1,0 +1,7 @@
+NO ./res/north.png
+SO ./res/south.png
+EA ./res/east.png
+WE ./res/west.png
+F 255,255,255
+C 255,0,0
+

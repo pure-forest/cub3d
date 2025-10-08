@@ -1,0 +1,366 @@
+[
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/main.c",
+   "-o",
+   "obj/main.o"
+  ],
+  "file": "src/main.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/load_map/load_map.c",
+   "-o",
+   "obj/load_map/load_map.o"
+  ],
+  "file": "src/load_map/load_map.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/load_map/load_map_grid.c",
+   "-o",
+   "obj/load_map/load_map_grid.o"
+  ],
+  "file": "src/load_map/load_map_grid.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/load_map/map_data.c",
+   "-o",
+   "obj/load_map/map_data.o"
+  ],
+  "file": "src/load_map/map_data.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/load_map/map_data_utils.c",
+   "-o",
+   "obj/load_map/map_data_utils.o"
+  ],
+  "file": "src/load_map/map_data_utils.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/load_map/map_utils.c",
+   "-o",
+   "obj/load_map/map_utils.o"
+  ],
+  "file": "src/load_map/map_utils.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/color/color.c",
+   "-o",
+   "obj/color/color.o"
+  ],
+  "file": "src/color/color.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/errors/errors.c",
+   "-o",
+   "obj/errors/errors.o"
+  ],
+  "file": "src/errors/errors.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/game/game_cleanup.c",
+   "-o",
+   "obj/game/game_cleanup.o"
+  ],
+  "file": "src/game/game_cleanup.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/game/game_init.c",
+   "-o",
+   "obj/game/game_init.o"
+  ],
+  "file": "src/game/game_init.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/hooks/close_hook.c",
+   "-o",
+   "obj/hooks/close_hook.o"
+  ],
+  "file": "src/hooks/close_hook.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/hooks/loop_hook.c",
+   "-o",
+   "obj/hooks/loop_hook.o"
+  ],
+  "file": "src/hooks/loop_hook.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/load_map/load_resources.c",
+   "-o",
+   "obj/load_map/load_resources.o"
+  ],
+  "file": "src/load_map/load_resources.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/load_map/map_validation.c",
+   "-o",
+   "obj/load_map/map_validation.o"
+  ],
+  "file": "src/load_map/map_validation.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/minimap/get_map_image.c",
+   "-o",
+   "obj/minimap/get_map_image.o"
+  ],
+  "file": "src/minimap/get_map_image.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/player_movement/player_movement.c",
+   "-o",
+   "obj/player_movement/player_movement.o"
+  ],
+  "file": "src/player_movement/player_movement.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/player_movement/collision.c",
+   "-o",
+   "obj/player_movement/collision.o"
+  ],
+  "file": "src/player_movement/collision.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/draw/draw.c",
+   "-o",
+   "obj/draw/draw.o"
+  ],
+  "file": "src/draw/draw.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/draw/draw_line.c",
+   "-o",
+   "obj/draw/draw_line.o"
+  ],
+  "file": "src/draw/draw_line.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/draw/rect.c",
+   "-o",
+   "obj/draw/rect.o"
+  ],
+  "file": "src/draw/rect.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/draw/image_to_image.c",
+   "-o",
+   "obj/draw/image_to_image.o"
+  ],
+  "file": "src/draw/image_to_image.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/input/input.c",
+   "-o",
+   "obj/input/input.o"
+  ],
+  "file": "src/input/input.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/minimap/update_minimap.c",
+   "-o",
+   "obj/minimap/update_minimap.o"
+  ],
+  "file": "src/minimap/update_minimap.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/raycasting/cast_ray.c",
+   "-o",
+   "obj/raycasting/cast_ray.o"
+  ],
+  "file": "src/raycasting/cast_ray.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/raycasting/raycasting.c",
+   "-o",
+   "obj/raycasting/raycasting.o"
+  ],
+  "file": "src/raycasting/raycasting.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d",
+  "arguments": [
+   "cc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-c",
+   "src/vec2/vec2.c",
+   "-o",
+   "obj/vec2/vec2.o"
+  ],
+  "file": "src/vec2/vec2.c"
+ }
+]

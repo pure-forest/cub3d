@@ -1,0 +1,19 @@
+F 255,255,255
+SO ./res/south.png   
+EA         ./res/east.png
+
+WE ./res/west.png
+
+C 255,0,0
+
+
+
+
+
+NO ./res/north.png
+
+11111111
+10000001
+10000001
+1000S001
+11111111

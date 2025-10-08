@@ -1,0 +1,590 @@
+[
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_atoi.c"
+  ],
+  "file": "ft_atoi.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_bzero.c"
+  ],
+  "file": "ft_bzero.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_calloc.c"
+  ],
+  "file": "ft_calloc.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_isalnum.c"
+  ],
+  "file": "ft_isalnum.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_isalpha.c"
+  ],
+  "file": "ft_isalpha.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_isascii.c"
+  ],
+  "file": "ft_isascii.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_isdigit.c"
+  ],
+  "file": "ft_isdigit.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_isprint.c"
+  ],
+  "file": "ft_isprint.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_itoa.c"
+  ],
+  "file": "ft_itoa.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_memchr.c"
+  ],
+  "file": "ft_memchr.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_memcmp.c"
+  ],
+  "file": "ft_memcmp.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_memcpy.c"
+  ],
+  "file": "ft_memcpy.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_memmove.c"
+  ],
+  "file": "ft_memmove.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_memset.c"
+  ],
+  "file": "ft_memset.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_putchar_fd.c"
+  ],
+  "file": "ft_putchar_fd.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_putendl_fd.c"
+  ],
+  "file": "ft_putendl_fd.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_putnbr_fd.c"
+  ],
+  "file": "ft_putnbr_fd.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_putstr_fd.c"
+  ],
+  "file": "ft_putstr_fd.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_split.c"
+  ],
+  "file": "ft_split.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strchr.c"
+  ],
+  "file": "ft_strchr.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strdup.c"
+  ],
+  "file": "ft_strdup.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_striteri.c"
+  ],
+  "file": "ft_striteri.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strjoin.c"
+  ],
+  "file": "ft_strjoin.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strlcat.c"
+  ],
+  "file": "ft_strlcat.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strlcpy.c"
+  ],
+  "file": "ft_strlcpy.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strlen.c"
+  ],
+  "file": "ft_strlen.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strmapi.c"
+  ],
+  "file": "ft_strmapi.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strncmp.c"
+  ],
+  "file": "ft_strncmp.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strnstr.c"
+  ],
+  "file": "ft_strnstr.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strrchr.c"
+  ],
+  "file": "ft_strrchr.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strtrim.c"
+  ],
+  "file": "ft_strtrim.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_substr.c"
+  ],
+  "file": "ft_substr.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_tolower.c"
+  ],
+  "file": "ft_tolower.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_toupper.c"
+  ],
+  "file": "ft_toupper.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstclear.c"
+  ],
+  "file": "ft_lstclear.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstadd_front.c"
+  ],
+  "file": "ft_lstadd_front.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstdelone.c"
+  ],
+  "file": "ft_lstdelone.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstiter.c"
+  ],
+  "file": "ft_lstiter.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstadd_back.c"
+  ],
+  "file": "ft_lstadd_back.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstlast.c"
+  ],
+  "file": "ft_lstlast.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstmap.c"
+  ],
+  "file": "ft_lstmap.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstnew.c"
+  ],
+  "file": "ft_lstnew.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_lstsize.c"
+  ],
+  "file": "ft_lstsize.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_printf.c"
+  ],
+  "file": "ft_printf.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_printf_utils.c"
+  ],
+  "file": "ft_printf_utils.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_atoi2.c"
+  ],
+  "file": "ft_atoi2.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_math.c"
+  ],
+  "file": "ft_math.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "get_next_line.c"
+  ],
+  "file": "get_next_line.c"
+ },
+ {
+  "directory": "/home/juaho/Projects/cub3d/libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "ft_strjoinm.c"
+  ],
+  "file": "ft_strjoinm.c"
+ }
+]

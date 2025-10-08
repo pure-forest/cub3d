@@ -1,0 +1,33 @@
+name: Build with Make
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install MLX42 dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y \
+            build-essential \
+            libx11-dev \
+            libglfw3-dev \
+            libglfw3 \
+            xorg-dev
+
+      - name: Use clang as default compiler
+        run: |
+          sudo update-alternatives --install /usr/bin/cc cc /usr/bin/clang 100
+
+      - name: Verify compiler
+        run: |
+          cc --version
+
+      - name: Run make
+        run: make
