@@ -1,12 +1,13 @@
-#Cub3d
+# Cub3d
 A graphical game simulating the classical Wolfenstein 3D
+Reference: https://en.wikipedia.org/wiki/Wolfenstein_3D
 
-🌟## Highlights
+## 🌟Highlights
 - Implementation of angle movement based on player viewpoint
 - Raycasting based on mathematical calculation (Reference: https://lodev.org/cgtutor/raycasting.html)
 - Good FPS performance while running the game, printing out every secound while game is running
 
-⬇️## Installation
+## ⬇️Installation
 Simply in the root directory run
 ```make```
 in command line terminal. And the executable is located in /bin directory.
